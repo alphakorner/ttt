@@ -1,0 +1,8 @@
+{
+  "version": "0.1.7",
+  "builtAt": "2026-11-22T22:07:49.712Z",
+  "files": {
+    "chrome": "alphakorner-extension-chrome.zip",
+    "firefox": "alphakorner-extension-firefox.zip"
+  }
+}
